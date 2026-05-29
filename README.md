@@ -1,6 +1,5 @@
 # Task_Manager
 
-Task Manager 
 
 A full-stack task management web application built with Flask.
 
